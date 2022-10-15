@@ -5,7 +5,7 @@ This contains all the HD Card images for Project Ignis / EDOpro to date.
 How to install? ***[Make Sure EDO is not running, to avoid conflicts.]***
 
 1. When updating, it is best practice to delete the files in the "\ProjectIgnis\pics" folder first.
-2. Download the .zip file by clicking [here](https://www.mediafire.com/file/2sdg7p5099mf20c/pics.zip/file) or [here](https://mega.nz/file/CUR0lagQ#VYqeQVmDnNxnmrT6qH-k5-EKwmXHMkQbfrVgo2vmGyU)
+2. Download the .zip file by clicking [here](https://www.mediafire.com/file/ap3vmw2lskbfu8d/pics.zip/file) or [here](https://mega.nz/file/aIRnXbAJ#i6KrAgSmW5NgjySDJmtMcwm17rRbFKRjxCgUH2dHlBU)
 3. Go into your Project Ignis folder (If you did not change any setting when installing Edopro, it should be in C:\ProjectIgnis)
 4. Place the downloaded file into the "ProjectIgnis\expansions" folder.
 5. Alternatively, you can extract it directly to the main "\ProjectIgnis\" folder. 
