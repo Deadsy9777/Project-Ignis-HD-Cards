@@ -24,6 +24,6 @@ Credits:
 
 Big THANKS to the HD Image Sources I use.
 
-Thanks to Yoshi80 for RushHD Config.
+Thanks to [Yoshi80](https://github.com/Yoshi80/Rush-HD-Pictures) for RushHD Config.
 
 Thanks to [Lahrenheit](https://github.com/Lahrenheit/EDOPRO-Skinpack) for getting me to join github.
