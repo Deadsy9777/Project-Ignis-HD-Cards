@@ -1,5 +1,5 @@
 # Project-Ignis-HD-Cards
-
+THIS PROJECT IS ENDED DUE TO BEING BANNED FROM PROJECT IGNIS WITHOUT DISCUSSION BECAUSE 1 PERSON CANT TAKE A JOKE.
 This contains all the HD Card images for Project Ignis / EDOpro to date.
 
 How to install? ***[Make Sure EDO is not running, to avoid conflicts.]***
